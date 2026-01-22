@@ -1,2 +1,0 @@
-# Legend_OllamaService
-Legend_OllamaService

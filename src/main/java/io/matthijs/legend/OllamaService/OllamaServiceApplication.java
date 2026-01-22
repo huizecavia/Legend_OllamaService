@@ -1,4 +1,4 @@
-package io.matthijs.service.OllamaService;
+package io.matthijs.legend.OllamaService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

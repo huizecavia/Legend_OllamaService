@@ -1,4 +1,4 @@
-package io.matthijs.service.OllamaService;
+package io.matthijs.legend.OllamaService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
